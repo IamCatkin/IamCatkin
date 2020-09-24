@@ -1,5 +1,3 @@
-```
-<!-- Your title -->
 ## Hi, I'm Catkin
 
 <!-- Your badges
