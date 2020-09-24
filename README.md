@@ -11,8 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IamCatkin)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i@catkin.moe)
 
-&nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -24,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for a partner 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 💻 Hobbies: Games & Music;
-
-**Languages and Tools:** 
+<br>
+**Progress:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
