@@ -13,16 +13,16 @@
 
 - 👦📚 I’m currently studying on CSU;
 - 🌱 I’m currently learning Tissue Engineering; 
-- 🤔 I’m looking for a partner 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 🤔 I’m looking for a research partner 😭;
 - 💻 Hobbies: Games & Music;
+- ⚽ Hala Madrid;
+- 💬 Ask me about anything, I am happy to help;
 
 **Progress:** 
 
-<p>
-  <a href="https://github.com/IamCatkin">
+<a href="https://github.com/IamCatkin">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=IamCatkin&show_icons=true" />
-  </a>
+</a>
 
 - JavaScript ![JavaScript learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "JavaScript learning progress")
 
@@ -31,4 +31,3 @@
 - Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
 
 - English ![English learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "English learning progress")
-</p>
