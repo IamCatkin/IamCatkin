@@ -11,12 +11,14 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/IamCatkin/IamCatkin/master/img/git-header.svg" />
 
-- 👦📚 I’m currently studying on CSU;
-- 🌱 I’m currently learning Tissue Engineering; 
-- 🤔 I’m looking for a research partner 😭;
+- 👦📚 Studying in CSU;
+- 🌱Learning Tissue Engineering; 
+- ✍️ Pursuing Coding  and Blog Writing;
+- 🤔 Looking for a research partner 😭;
 - 💻 Hobbies: Games & Music;
-- ⚽ Hala Madrid;
+- ❤️ Prefer tea rather than coffee☕;
 - 💬 Ask me about anything, I am happy to help;
+- ⚽ Hala Madrid!
 
 **Progress:** 
 
@@ -31,3 +33,5 @@
 - Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
 
 - English ![English learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "English learning progress")
+
+- Tissue Engineering ![Tissue Engineering learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=1&leftFill=%2300FFFF "Tissue Engineering learning progress")
