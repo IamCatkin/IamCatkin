@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/IamCatkin/IamCatkin/master/img/git-header.svg" />
 
-- 👦📚 Studying in CSU;
+- 👦📚 Studying in CSU, China;
 - 🌱Learning Tissue Engineering; 
 - ✍️ Pursuing Coding  and Blog Writing;
 - 🤔 Looking for a research partner 😭;
