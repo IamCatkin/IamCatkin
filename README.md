@@ -5,7 +5,7 @@
 ![living](https://img.shields.io/badge/living-changsha-3c9)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=IamCatkin.github.profile)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IamCatkin)
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i@catkin.moe)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i@catkin.moe)
 
 **About:**
 
