@@ -8,7 +8,7 @@
 
 **About:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcatkin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcatkin&layout=compact)
+<img width="50%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcatkin&layout=compact" />
 
 - 👦📚 Studying in CSU, China;
 - 🌱Learning Tissue Engineering; 
