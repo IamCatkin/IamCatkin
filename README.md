@@ -8,7 +8,7 @@
 
 **About:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/IamCatkin/IamCatkin/master/img/git-header.svg" />
+<img width="50%" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcatkin&layout=compact" />
 
 - 👦📚 Studying in CSU, China;
 - 🌱Learning Tissue Engineering; 
