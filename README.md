@@ -1,6 +1,5 @@
 ## Hi, I'm Catkin
 
-![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-graduation-brightgreen)
 ![living](https://img.shields.io/badge/living-changsha-3c9)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IamCatkin)
